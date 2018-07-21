@@ -1,2 +1,5 @@
 # contents
 */shared/*
+
+# vagrant config files
+*/.vagrant
